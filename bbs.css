@@ -280,3 +280,45 @@ color: #7FAD39;
 
     color: #7FAD39;
 }
+.pi2 span{
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 22px;
+    /* or 138% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #A9A9A9;
+}
+
+.impt input{
+    width: 25px;
+    height: 25px;
+    border: none;
+    background: none;
+    text-align: center;
+    
+}
+.impt button{
+    width: 25px;
+    height: 25px;
+    background: #2A2A2A;
+    color: white;
+    border: 1.5px solid #FFFFFF;
+}
+.impt{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    padding: 30px 20px;
+    justify-content: space-between;
+}
+#plus{
+    margin-right: 75px;
+}
+#karzinkab{
+    background: none;
+}
